@@ -1,0 +1,493 @@
+State,City,AverageTemperature,Country,Date,RecordId,X,Y
+Illinois,Chicago,4.083,United States,2000-02-01,54749,2,
+Illinois,Chicago,8.274000000000001,United States,2000-03-01,54750,2,True
+Illinois,Chicago,7.615,United States,2000-04-01,54751,2,
+Illinois,Chicago,13.867,United States,2000-05-01,54752,2,
+Illinois,Chicago,17.939,United States,2000-06-01,54753,2,True
+Illinois,Chicago,21.087,United States,2000-07-01,54754,2,
+Illinois,Chicago,22.84,United States,2000-08-01,54755,2,
+Illinois,Chicago,19.061,United States,2000-09-01,54756,2,True
+Illinois,Chicago,15.11,United States,2000-10-01,54757,2,
+Illinois,Chicago,6.824,United States,2000-11-01,54758,2,
+Illinois,Chicago,-3.761000000000001,United States,2000-12-01,54759,2,True
+Illinois,Chicago,0.5980000000000003,United States,2001-01-01,54760,2,
+Illinois,Chicago,0.4370000000000001,United States,2001-02-01,54761,2,
+Illinois,Chicago,2.763,United States,2001-03-01,54762,2,True
+Illinois,Chicago,10.273,United States,2001-04-01,54763,2,
+Illinois,Chicago,13.508,United States,2001-05-01,54764,2,
+Illinois,Chicago,17.654,United States,2001-06-01,54765,2,True
+Illinois,Chicago,22.661,United States,2001-07-01,54766,2,
+Illinois,Chicago,23.986,United States,2001-08-01,54767,2,
+Illinois,Chicago,18.088,United States,2001-09-01,54768,2,True
+Illinois,Chicago,13.081,United States,2001-10-01,54769,2,
+Illinois,Chicago,11.986999999999998,United States,2001-11-01,54770,2,
+Illinois,Chicago,5.401,United States,2001-12-01,54771,2,True
+Illinois,Chicago,4.0299999999999985,United States,2002-01-01,54772,2,
+Illinois,Chicago,3.846000000000001,United States,2002-02-01,54773,2,
+Illinois,Chicago,2.565,United States,2002-03-01,54774,2,True
+Illinois,Chicago,8.547,United States,2002-04-01,54775,2,
+Illinois,Chicago,10.305,United States,2002-05-01,54776,2,
+Illinois,Chicago,19.011,United States,2002-06-01,54777,2,True
+Illinois,Chicago,24.428,United States,2002-07-01,54778,2,
+Illinois,Chicago,23.611,United States,2002-08-01,54779,2,
+Illinois,Chicago,21.039,United States,2002-09-01,54780,2,True
+Illinois,Chicago,11.651,United States,2002-10-01,54781,2,
+Illinois,Chicago,6.517,United States,2002-11-01,54782,2,
+Illinois,Chicago,2.835,United States,2002-12-01,54783,2,True
+Illinois,Chicago,-1.7990000000000002,United States,2003-01-01,54784,2,
+Illinois,Chicago,-1.544,United States,2003-02-01,54785,2,
+Illinois,Chicago,3.9760000000000004,United States,2003-03-01,54786,2,True
+Illinois,Chicago,7.6179999999999986,United States,2003-04-01,54787,2,
+Illinois,Chicago,10.951,United States,2003-05-01,54788,2,
+Illinois,Chicago,16.468,United States,2003-06-01,54789,2,True
+Illinois,Chicago,21.665,United States,2003-07-01,54790,2,
+Illinois,Chicago,24.035,United States,2003-08-01,54791,2,
+Illinois,Chicago,18.99,United States,2003-09-01,54792,2,True
+Illinois,Chicago,12.694,United States,2003-10-01,54793,2,
+Illinois,Chicago,8.571,United States,2003-11-01,54794,2,
+Illinois,Chicago,4.154,United States,2003-12-01,54795,2,True
+Illinois,Chicago,-2.383,United States,2004-01-01,54796,2,
+Illinois,Chicago,1.0070000000000001,United States,2004-02-01,54797,2,
+Illinois,Chicago,6.6979999999999995,United States,2004-03-01,54798,2,True
+Illinois,Chicago,8.927999999999997,United States,2004-04-01,54799,2,
+Illinois,Chicago,12.624,United States,2004-05-01,54800,2,
+Illinois,Chicago,16.916,United States,2004-06-01,54801,2,True
+Illinois,Chicago,21.188000000000002,United States,2004-07-01,54802,2,
+Illinois,Chicago,20.514,United States,2004-08-01,54803,2,
+Illinois,Chicago,20.675,United States,2004-09-01,54804,2,True
+Illinois,Chicago,13.769,United States,2004-10-01,54805,2,
+Illinois,Chicago,9.228,United States,2004-11-01,54806,2,
+Illinois,Chicago,2.157,United States,2004-12-01,54807,2,True
+Illinois,Chicago,-0.16700000000000004,United States,2005-01-01,54808,2,
+Illinois,Chicago,3.234,United States,2005-02-01,54809,2,
+Illinois,Chicago,2.636,United States,2005-03-01,54810,2,True
+Illinois,Chicago,9.797,United States,2005-04-01,54811,2,
+Illinois,Chicago,11.109000000000002,United States,2005-05-01,54812,2,
+Illinois,Chicago,21.002,United States,2005-06-01,54813,2,True
+Illinois,Chicago,22.988000000000003,United States,2005-07-01,54814,2,
+Illinois,Chicago,23.959,United States,2005-08-01,54815,2,
+Illinois,Chicago,21.84800000000001,United States,2005-09-01,54816,2,True
+Illinois,Chicago,14.216,United States,2005-10-01,54817,2,
+Illinois,Chicago,8.530999999999999,United States,2005-11-01,54818,2,
+Illinois,Chicago,-0.1469999999999998,United States,2005-12-01,54819,2,True
+Illinois,Chicago,6.0429999999999975,United States,2006-01-01,54820,2,
+Illinois,Chicago,1.1,United States,2006-02-01,54821,2,
+Illinois,Chicago,4.726,United States,2006-03-01,54822,2,True
+Illinois,Chicago,10.154,United States,2006-04-01,54823,2,
+Illinois,Chicago,12.28,United States,2006-05-01,54824,2,
+Illinois,Chicago,17.519000000000002,United States,2006-06-01,54825,2,True
+Illinois,Chicago,23.469,United States,2006-07-01,54826,2,
+Illinois,Chicago,23.561,United States,2006-08-01,54827,2,
+Illinois,Chicago,18.159000000000002,United States,2006-09-01,54828,2,True
+Illinois,Chicago,11.246,United States,2006-10-01,54829,2,
+Illinois,Chicago,9.057,United States,2006-11-01,54830,2,
+Illinois,Chicago,5.1320000000000014,United States,2006-12-01,54831,2,True
+Illinois,Chicago,2.374,United States,2007-01-01,54832,2,
+Illinois,Chicago,-3.836,United States,2007-02-01,54833,2,
+Illinois,Chicago,6.881,United States,2007-03-01,54834,2,True
+Illinois,Chicago,7.0230000000000015,United States,2007-04-01,54835,2,
+Illinois,Chicago,14.244000000000002,United States,2007-05-01,54836,2,
+Illinois,Chicago,19.087,United States,2007-06-01,54837,2,True
+Illinois,Chicago,21.82800000000001,United States,2007-07-01,54838,2,
+Illinois,Chicago,23.823,United States,2007-08-01,54839,2,
+Illinois,Chicago,20.679000000000002,United States,2007-09-01,54840,2,True
+Illinois,Chicago,16.529,United States,2007-10-01,54841,2,
+Illinois,Chicago,7.221999999999999,United States,2007-11-01,54842,2,
+Illinois,Chicago,1.526,United States,2007-12-01,54843,2,True
+Illinois,Chicago,0.3320000000000001,United States,2008-01-01,54844,2,
+Illinois,Chicago,-1.709,United States,2008-02-01,54845,2,
+Illinois,Chicago,2.478,United States,2008-03-01,54846,2,True
+Illinois,Chicago,8.844000000000003,United States,2008-04-01,54847,2,
+Illinois,Chicago,10.559000000000001,United States,2008-05-01,54848,2,
+Illinois,Chicago,18.324,United States,2008-06-01,54849,2,True
+Illinois,Chicago,22.021,United States,2008-07-01,54850,2,
+Illinois,Chicago,22.574,United States,2008-08-01,54851,2,
+Illinois,Chicago,20.134,United States,2008-09-01,54852,2,True
+Illinois,Chicago,12.873,United States,2008-10-01,54853,2,
+Illinois,Chicago,7.143,United States,2008-11-01,54854,2,
+Illinois,Chicago,-0.6640000000000001,United States,2008-12-01,54855,2,True
+Illinois,Chicago,-4.299,United States,2009-01-01,54856,2,
+Illinois,Chicago,1.454,United States,2009-02-01,54857,2,
+Illinois,Chicago,4.808,United States,2009-03-01,54858,2,True
+Illinois,Chicago,7.6229999999999976,United States,2009-04-01,54859,2,
+Illinois,Chicago,12.627,United States,2009-05-01,54860,2,
+Illinois,Chicago,17.305,United States,2009-06-01,54861,2,True
+Illinois,Chicago,19.792,United States,2009-07-01,54862,2,
+Illinois,Chicago,21.724,United States,2009-08-01,54863,2,
+Illinois,Chicago,19.502,United States,2009-09-01,54864,2,True
+Illinois,Chicago,11.22,United States,2009-10-01,54865,2,
+Illinois,Chicago,10.261,United States,2009-11-01,54866,2,
+Illinois,Chicago,1.5630000000000002,United States,2009-12-01,54867,2,True
+Illinois,Chicago,-0.5949999999999999,United States,2010-01-01,54868,2,
+Illinois,Chicago,0.7709999999999999,United States,2010-02-01,54869,2,
+Illinois,Chicago,6.489,United States,2010-03-01,54870,2,True
+Illinois,Chicago,10.935,United States,2010-04-01,54871,2,
+Illinois,Chicago,13.803,United States,2010-05-01,54872,2,
+Illinois,Chicago,19.055,United States,2010-06-01,54873,2,True
+Illinois,Chicago,24.106,United States,2010-07-01,54874,2,
+Illinois,Chicago,24.948,United States,2010-08-01,54875,2,
+Illinois,Chicago,19.229,United States,2010-09-01,54876,2,True
+Illinois,Chicago,14.582,United States,2010-10-01,54877,2,
+Illinois,Chicago,8.539,United States,2010-11-01,54878,2,
+Illinois,Chicago,-0.07099999999999995,United States,2010-12-01,54879,2,True
+Illinois,Chicago,-1.582,United States,2011-01-01,54880,2,
+Illinois,Chicago,0.276,United States,2011-02-01,54881,2,
+Illinois,Chicago,3.4739999999999998,United States,2011-03-01,54882,2,True
+Illinois,Chicago,7.382999999999999,United States,2011-04-01,54883,2,
+Illinois,Chicago,12.133,United States,2011-05-01,54884,2,
+Illinois,Chicago,18.011,United States,2011-06-01,54885,2,True
+Illinois,Chicago,24.412,United States,2011-07-01,54886,2,
+Illinois,Chicago,23.414,United States,2011-08-01,54887,2,
+Illinois,Chicago,18.331,United States,2011-09-01,54888,2,True
+Illinois,Chicago,13.837,United States,2011-10-01,54889,2,
+Illinois,Chicago,9.555,United States,2011-11-01,54890,2,
+Illinois,Chicago,5.327000000000001,United States,2011-12-01,54891,2,True
+Illinois,Chicago,2.6700000000000004,United States,2012-01-01,54892,2,
+Illinois,Chicago,3.698,United States,2012-02-01,54893,2,
+Illinois,Chicago,12.145,United States,2012-03-01,54894,2,True
+Illinois,Chicago,8.383000000000001,United States,2012-04-01,54895,2,
+Illinois,Chicago,14.956,United States,2012-05-01,54896,2,
+Illinois,Chicago,19.532,United States,2012-06-01,54897,2,True
+Illinois,Chicago,25.909000000000002,United States,2012-07-01,54898,2,
+Illinois,Chicago,22.778,United States,2012-08-01,54899,2,
+Illinois,Chicago,18.692999999999998,United States,2012-09-01,54900,2,True
+Illinois,Chicago,12.229000000000001,United States,2012-10-01,54901,2,
+Illinois,Chicago,7.27,United States,2012-11-01,54902,2,
+Illinois,Chicago,5.5920000000000005,United States,2012-12-01,54903,2,True
+Illinois,Chicago,1.056,United States,2013-01-01,54904,2,
+Illinois,Chicago,-0.509,United States,2013-02-01,54905,2,
+Illinois,Chicago,1.3230000000000002,United States,2013-03-01,54906,2,True
+Illinois,Chicago,6.644,United States,2013-04-01,54907,2,
+Illinois,Chicago,13.734000000000002,United States,2013-05-01,54908,2,
+Illinois,Chicago,17.913,United States,2013-06-01,54909,2,True
+Illinois,Chicago,21.914,United States,2013-07-01,54910,2,
+Illinois,Chicago,22.23,United States,2013-08-01,54911,2,
+Illinois,Chicago,19.977,United States,2013-09-01,54912,2,True
+California,Los Angeles,10.262,United States,2000-02-01,133659,2,True
+California,Los Angeles,12.335,United States,2000-03-01,133660,2,
+California,Los Angeles,15.684000000000001,United States,2000-04-01,133661,2,
+California,Los Angeles,19.073,United States,2000-05-01,133662,2,True
+California,Los Angeles,22.524,United States,2000-06-01,133663,2,
+California,Los Angeles,23.573,United States,2000-07-01,133664,2,
+California,Los Angeles,25.053,United States,2000-08-01,133665,2,True
+California,Los Angeles,21.951,United States,2000-09-01,133666,2,
+California,Los Angeles,15.902999999999999,United States,2000-10-01,133667,2,
+California,Los Angeles,10.97,United States,2000-11-01,133668,2,True
+California,Los Angeles,11.62,United States,2000-12-01,133669,2,
+California,Los Angeles,8.398,United States,2001-01-01,133670,2,
+California,Los Angeles,8.477,United States,2001-02-01,133671,2,True
+California,Los Angeles,13.284,United States,2001-03-01,133672,2,
+California,Los Angeles,12.61,United States,2001-04-01,133673,2,
+California,Los Angeles,20.431,United States,2001-05-01,133674,2,True
+California,Los Angeles,22.561,United States,2001-06-01,133675,2,
+California,Los Angeles,23.241999999999997,United States,2001-07-01,133676,2,
+California,Los Angeles,24.774,United States,2001-08-01,133677,2,True
+California,Los Angeles,22.663,United States,2001-09-01,133678,2,
+California,Los Angeles,18.867,United States,2001-10-01,133679,2,
+California,Los Angeles,13.474,United States,2001-11-01,133680,2,True
+California,Los Angeles,8.814,United States,2001-12-01,133681,2,
+California,Los Angeles,9.022,United States,2002-01-01,133682,2,
+California,Los Angeles,12.181,United States,2002-02-01,133683,2,True
+California,Los Angeles,11.748,United States,2002-03-01,133684,2,
+California,Los Angeles,14.147,United States,2002-04-01,133685,2,
+California,Los Angeles,17.151999999999994,United States,2002-05-01,133686,2,True
+California,Los Angeles,21.497,United States,2002-06-01,133687,2,
+California,Los Angeles,24.784000000000002,United States,2002-07-01,133688,2,
+California,Los Angeles,23.666,United States,2002-08-01,133689,2,True
+California,Los Angeles,23.122,United States,2002-09-01,133690,2,
+California,Los Angeles,16.111,United States,2002-10-01,133691,2,
+California,Los Angeles,14.662,United States,2002-11-01,133692,2,True
+California,Los Angeles,9.071,United States,2002-12-01,133693,2,
+California,Los Angeles,13.492,United States,2003-01-01,133694,2,
+California,Los Angeles,10.117,United States,2003-02-01,133695,2,True
+California,Los Angeles,13.295,United States,2003-03-01,133696,2,
+California,Los Angeles,11.778,United States,2003-04-01,133697,2,
+California,Los Angeles,17.436999999999998,United States,2003-05-01,133698,2,True
+California,Los Angeles,20.554000000000002,United States,2003-06-01,133699,2,
+California,Los Angeles,26.222,United States,2003-07-01,133700,2,
+California,Los Angeles,25.593000000000004,United States,2003-08-01,133701,2,True
+California,Los Angeles,23.8,United States,2003-09-01,133702,2,
+California,Los Angeles,20.549,United States,2003-10-01,133703,2,
+California,Los Angeles,11.117,United States,2003-11-01,133704,2,True
+California,Los Angeles,9.382,United States,2003-12-01,133705,2,
+California,Los Angeles,9.588,United States,2004-01-01,133706,2,
+California,Los Angeles,9.131,United States,2004-02-01,133707,2,True
+California,Los Angeles,16.214000000000002,United States,2004-03-01,133708,2,
+California,Los Angeles,15.78,United States,2004-04-01,133709,2,
+California,Los Angeles,18.805,United States,2004-05-01,133710,2,True
+California,Los Angeles,21.176,United States,2004-06-01,133711,2,
+California,Los Angeles,24.514,United States,2004-07-01,133712,2,
+California,Los Angeles,23.95000000000001,United States,2004-08-01,133713,2,True
+California,Los Angeles,22.644000000000002,United States,2004-09-01,133714,2,
+California,Los Angeles,15.98,United States,2004-10-01,133715,2,
+California,Los Angeles,11.019,United States,2004-11-01,133716,2,True
+California,Los Angeles,9.833,United States,2004-12-01,133717,2,
+California,Los Angeles,9.87,United States,2005-01-01,133718,2,
+California,Los Angeles,10.609000000000002,United States,2005-02-01,133719,2,True
+California,Los Angeles,12.568,United States,2005-03-01,133720,2,
+California,Los Angeles,13.724,United States,2005-04-01,133721,2,
+California,Los Angeles,18.048,United States,2005-05-01,133722,2,True
+California,Los Angeles,19.417,United States,2005-06-01,133723,2,
+California,Los Angeles,25.676,United States,2005-07-01,133724,2,
+California,Los Angeles,24.71,United States,2005-08-01,133725,2,True
+California,Los Angeles,20.165,United States,2005-09-01,133726,2,
+California,Los Angeles,16.959,United States,2005-10-01,133727,2,
+California,Los Angeles,14.585,United States,2005-11-01,133728,2,True
+California,Los Angeles,10.845999999999998,United States,2005-12-01,133729,2,
+California,Los Angeles,9.846,United States,2006-01-01,133730,2,
+California,Los Angeles,11.787,United States,2006-02-01,133731,2,True
+California,Los Angeles,8.861999999999998,United States,2006-03-01,133732,2,
+California,Los Angeles,12.352,United States,2006-04-01,133733,2,
+California,Los Angeles,18.585,United States,2006-05-01,133734,2,True
+California,Los Angeles,23.596,United States,2006-06-01,133735,2,
+California,Los Angeles,27.336,United States,2006-07-01,133736,2,
+California,Los Angeles,23.75,United States,2006-08-01,133737,2,True
+California,Los Angeles,22.201,United States,2006-09-01,133738,2,
+California,Los Angeles,16.433,United States,2006-10-01,133739,2,
+California,Los Angeles,14.687000000000001,United States,2006-11-01,133740,2,True
+California,Los Angeles,10.042,United States,2006-12-01,133741,2,
+California,Los Angeles,8.391,United States,2007-01-01,133742,2,
+California,Los Angeles,10.897,United States,2007-02-01,133743,2,True
+California,Los Angeles,14.809000000000001,United States,2007-03-01,133744,2,
+California,Los Angeles,14.889000000000001,United States,2007-04-01,133745,2,
+California,Los Angeles,18.107,United States,2007-05-01,133746,2,True
+California,Los Angeles,21.846,United States,2007-06-01,133747,2,
+California,Los Angeles,25.265,United States,2007-07-01,133748,2,
+California,Los Angeles,25.406,United States,2007-08-01,133749,2,True
+California,Los Angeles,20.896,United States,2007-09-01,133750,2,
+California,Los Angeles,17.295,United States,2007-10-01,133751,2,
+California,Los Angeles,14.4,United States,2007-11-01,133752,2,True
+California,Los Angeles,8.198,United States,2007-12-01,133753,2,
+California,Los Angeles,8.196,United States,2008-01-01,133754,2,
+California,Los Angeles,10.489,United States,2008-02-01,133755,2,True
+California,Los Angeles,13.466,United States,2008-03-01,133756,2,
+California,Los Angeles,14.928,United States,2008-04-01,133757,2,
+California,Los Angeles,17.134999999999998,United States,2008-05-01,133758,2,True
+California,Los Angeles,23.12,United States,2008-06-01,133759,2,
+California,Los Angeles,25.031999999999996,United States,2008-07-01,133760,2,
+California,Los Angeles,25.23200000000001,United States,2008-08-01,133761,2,True
+California,Los Angeles,23.37,United States,2008-09-01,133762,2,
+California,Los Angeles,19.398,United States,2008-10-01,133763,2,
+California,Los Angeles,15.323,United States,2008-11-01,133764,2,True
+California,Los Angeles,8.488,United States,2008-12-01,133765,2,
+California,Los Angeles,11.882,United States,2009-01-01,133766,2,
+California,Los Angeles,9.635,United States,2009-02-01,133767,2,True
+California,Los Angeles,11.996,United States,2009-03-01,133768,2,
+California,Los Angeles,13.968,United States,2009-04-01,133769,2,
+California,Los Angeles,20.035,United States,2009-05-01,133770,2,True
+California,Los Angeles,19.307000000000002,United States,2009-06-01,133771,2,
+California,Los Angeles,25.717,United States,2009-07-01,133772,2,
+California,Los Angeles,24.384,United States,2009-08-01,133773,2,True
+California,Los Angeles,24.265,United States,2009-09-01,133774,2,
+California,Los Angeles,16.637999999999998,United States,2009-10-01,133775,2,
+California,Los Angeles,13.777999999999999,United States,2009-11-01,133776,2,True
+California,Los Angeles,8.519,United States,2009-12-01,133777,2,
+California,Los Angeles,10.09,United States,2010-01-01,133778,2,
+California,Los Angeles,10.353,United States,2010-02-01,133779,2,True
+California,Los Angeles,12.437000000000001,United States,2010-03-01,133780,2,
+California,Los Angeles,12.283,United States,2010-04-01,133781,2,
+California,Los Angeles,15.895,United States,2010-05-01,133782,2,True
+California,Los Angeles,20.724,United States,2010-06-01,133783,2,
+California,Los Angeles,23.636,United States,2010-07-01,133784,2,
+California,Los Angeles,23.545,United States,2010-08-01,133785,2,True
+California,Los Angeles,22.42,United States,2010-09-01,133786,2,
+California,Los Angeles,16.91,United States,2010-10-01,133787,2,
+California,Los Angeles,12.114,United States,2010-11-01,133788,2,True
+California,Los Angeles,10.237,United States,2010-12-01,133789,2,
+California,Los Angeles,10.432,United States,2011-01-01,133790,2,
+California,Los Angeles,8.759,United States,2011-02-01,133791,2,True
+California,Los Angeles,11.985,United States,2011-03-01,133792,2,
+California,Los Angeles,14.217,United States,2011-04-01,133793,2,
+California,Los Angeles,15.729000000000001,United States,2011-05-01,133794,2,True
+California,Los Angeles,19.339000000000002,United States,2011-06-01,133795,2,
+California,Los Angeles,23.987,United States,2011-07-01,133796,2,
+California,Los Angeles,24.566999999999997,United States,2011-08-01,133797,2,True
+California,Los Angeles,22.728,United States,2011-09-01,133798,2,
+California,Los Angeles,18.244,United States,2011-10-01,133799,2,
+California,Los Angeles,11.642999999999999,United States,2011-11-01,133800,2,True
+California,Los Angeles,8.867999999999997,United States,2011-12-01,133801,2,
+California,Los Angeles,11.581,United States,2012-01-01,133802,2,
+California,Los Angeles,10.609000000000002,United States,2012-02-01,133803,2,True
+California,Los Angeles,11.576,United States,2012-03-01,133804,2,
+California,Los Angeles,14.751,United States,2012-04-01,133805,2,
+California,Los Angeles,18.677,United States,2012-05-01,133806,2,True
+California,Los Angeles,21.066,United States,2012-06-01,133807,2,
+California,Los Angeles,23.851,United States,2012-07-01,133808,2,
+California,Los Angeles,26.892000000000003,United States,2012-08-01,133809,2,True
+California,Los Angeles,24.745,United States,2012-09-01,133810,2,
+California,Los Angeles,18.712,United States,2012-10-01,133811,2,
+California,Los Angeles,13.902999999999999,United States,2012-11-01,133812,2,True
+California,Los Angeles,8.712,United States,2012-12-01,133813,2,
+California,Los Angeles,8.812999999999997,United States,2013-01-01,133814,2,
+California,Los Angeles,9.804,United States,2013-02-01,133815,2,True
+California,Los Angeles,14.463,United States,2013-03-01,133816,2,
+California,Los Angeles,15.921,United States,2013-04-01,133817,2,
+California,Los Angeles,19.028,United States,2013-05-01,133818,2,True
+California,Los Angeles,22.434,United States,2013-06-01,133819,2,
+California,Los Angeles,25.09,United States,2013-07-01,133820,2,
+California,Los Angeles,24.23200000000001,United States,2013-08-01,133821,2,True
+California,Los Angeles,23.301,United States,2013-09-01,133822,2,
+New York,New York,-0.16199999999999992,United States,2000-02-01,172844,2,
+New York,New York,6.391,United States,2000-03-01,172845,2,True
+New York,New York,8.897,United States,2000-04-01,172846,2,
+New York,New York,15.944,United States,2000-05-01,172847,2,
+New York,New York,20.234,United States,2000-06-01,172848,2,True
+New York,New York,20.726999999999997,United States,2000-07-01,172849,2,
+New York,New York,20.791,United States,2000-08-01,172850,2,
+New York,New York,17.095,United States,2000-09-01,172851,2,True
+New York,New York,11.323,United States,2000-10-01,172852,2,
+New York,New York,4.913,United States,2000-11-01,172853,2,
+New York,New York,-3.3560000000000003,United States,2000-12-01,172854,2,True
+New York,New York,-2.8139999999999996,United States,2001-01-01,172855,2,
+New York,New York,-0.442,United States,2001-02-01,172856,2,
+New York,New York,1.8840000000000001,United States,2001-03-01,172857,2,True
+New York,New York,9.92,United States,2001-04-01,172858,2,
+New York,New York,16.014,United States,2001-05-01,172859,2,
+New York,New York,20.906999999999996,United States,2001-06-01,172860,2,True
+New York,New York,21.045,United States,2001-07-01,172861,2,
+New York,New York,23.506999999999998,United States,2001-08-01,172862,2,
+New York,New York,17.473999999999997,United States,2001-09-01,172863,2,True
+New York,New York,11.989999999999998,United States,2001-10-01,172864,2,
+New York,New York,8.212,United States,2001-11-01,172865,2,
+New York,New York,3.4750000000000005,United States,2001-12-01,172866,2,True
+New York,New York,1.2520000000000002,United States,2002-01-01,172867,2,
+New York,New York,2.1260000000000003,United States,2002-02-01,172868,2,
+New York,New York,4.677,United States,2002-03-01,172869,2,True
+New York,New York,11.125,United States,2002-04-01,172870,2,
+New York,New York,14.171,United States,2002-05-01,172871,2,
+New York,New York,20.623,United States,2002-06-01,172872,2,True
+New York,New York,23.930999999999997,United States,2002-07-01,172873,2,
+New York,New York,23.558000000000003,United States,2002-08-01,172874,2,
+New York,New York,19.125,United States,2002-09-01,172875,2,True
+New York,New York,10.446,United States,2002-10-01,172876,2,
+New York,New York,4.945,United States,2002-11-01,172877,2,
+New York,New York,-0.953,United States,2002-12-01,172878,2,True
+New York,New York,-5.223,United States,2003-01-01,172879,2,
+New York,New York,-3.786,United States,2003-02-01,172880,2,
+New York,New York,3.5260000000000002,United States,2003-03-01,172881,2,True
+New York,New York,8.185,United States,2003-04-01,172882,2,
+New York,New York,13.817,United States,2003-05-01,172883,2,
+New York,New York,18.96,United States,2003-06-01,172884,2,True
+New York,New York,22.864,United States,2003-07-01,172885,2,
+New York,New York,23.243,United States,2003-08-01,172886,2,
+New York,New York,18.262,United States,2003-09-01,172887,2,True
+New York,New York,10.201999999999998,United States,2003-10-01,172888,2,
+New York,New York,7.603,United States,2003-11-01,172889,2,
+New York,New York,0.3790000000000001,United States,2003-12-01,172890,2,True
+New York,New York,-6.3249999999999975,United States,2004-01-01,172891,2,
+New York,New York,-1.3319999999999999,United States,2004-02-01,172892,2,
+New York,New York,4.525,United States,2004-03-01,172893,2,True
+New York,New York,10.057,United States,2004-04-01,172894,2,
+New York,New York,17.8,United States,2004-05-01,172895,2,
+New York,New York,19.761,United States,2004-06-01,172896,2,True
+New York,New York,21.945999999999998,United States,2004-07-01,172897,2,
+New York,New York,21.771,United States,2004-08-01,172898,2,
+New York,New York,18.843,United States,2004-09-01,172899,2,True
+New York,New York,10.96,United States,2004-10-01,172900,2,
+New York,New York,6.682,United States,2004-11-01,172901,2,
+New York,New York,-0.014000000000000012,United States,2004-12-01,172902,2,True
+New York,New York,-3.611,United States,2005-01-01,172903,2,
+New York,New York,-0.6090000000000002,United States,2005-02-01,172904,2,
+New York,New York,1.125,United States,2005-03-01,172905,2,True
+New York,New York,10.633,United States,2005-04-01,172906,2,
+New York,New York,13.267,United States,2005-05-01,172907,2,
+New York,New York,22.169,United States,2005-06-01,172908,2,True
+New York,New York,23.704,United States,2005-07-01,172909,2,
+New York,New York,23.941,United States,2005-08-01,172910,2,
+New York,New York,20.238,United States,2005-09-01,172911,2,True
+New York,New York,12.058,United States,2005-10-01,172912,2,
+New York,New York,7.019,United States,2005-11-01,172913,2,
+New York,New York,-1.757,United States,2005-12-01,172914,2,True
+New York,New York,1.608,United States,2006-01-01,172915,2,
+New York,New York,-0.5650000000000002,United States,2006-02-01,172916,2,
+New York,New York,3.7760000000000002,United States,2006-03-01,172917,2,True
+New York,New York,10.709000000000001,United States,2006-04-01,172918,2,
+New York,New York,15.637,United States,2006-05-01,172919,2,
+New York,New York,20.445,United States,2006-06-01,172920,2,True
+New York,New York,24.165,United States,2006-07-01,172921,2,
+New York,New York,22.42,United States,2006-08-01,172922,2,
+New York,New York,16.945999999999998,United States,2006-09-01,172923,2,True
+New York,New York,10.811,United States,2006-10-01,172924,2,
+New York,New York,8.418,United States,2006-11-01,172925,2,
+New York,New York,3.8610000000000007,United States,2006-12-01,172926,2,True
+New York,New York,0.4119999999999999,United States,2007-01-01,172927,2,
+New York,New York,-4.713,United States,2007-02-01,172928,2,
+New York,New York,2.947,United States,2007-03-01,172929,2,True
+New York,New York,8.02,United States,2007-04-01,172930,2,
+New York,New York,16.677,United States,2007-05-01,172931,2,
+New York,New York,20.868000000000002,United States,2007-06-01,172932,2,True
+New York,New York,22.295,United States,2007-07-01,172933,2,
+New York,New York,22.063000000000002,United States,2007-08-01,172934,2,
+New York,New York,19.0,United States,2007-09-01,172935,2,True
+New York,New York,15.222000000000001,United States,2007-10-01,172936,2,
+New York,New York,4.831,United States,2007-11-01,172937,2,
+New York,New York,-0.09399999999999996,United States,2007-12-01,172938,2,True
+New York,New York,-0.573,United States,2008-01-01,172939,2,
+New York,New York,-0.675,United States,2008-02-01,172940,2,
+New York,New York,3.47,United States,2008-03-01,172941,2,True
+New York,New York,10.943,United States,2008-04-01,172942,2,
+New York,New York,13.64,United States,2008-05-01,172943,2,
+New York,New York,21.831,United States,2008-06-01,172944,2,True
+New York,New York,23.693,United States,2008-07-01,172945,2,
+New York,New York,20.886999999999997,United States,2008-08-01,172946,2,
+New York,New York,18.676,United States,2008-09-01,172947,2,True
+New York,New York,10.348,United States,2008-10-01,172948,2,
+New York,New York,5.132999999999999,United States,2008-11-01,172949,2,
+New York,New York,0.3270000000000001,United States,2008-12-01,172950,2,True
+New York,New York,-5.3599999999999985,United States,2009-01-01,172951,2,
+New York,New York,-0.3719999999999999,United States,2009-02-01,172952,2,
+New York,New York,3.579,United States,2009-03-01,172953,2,True
+New York,New York,10.478,United States,2009-04-01,172954,2,
+New York,New York,15.447,United States,2009-05-01,172955,2,
+New York,New York,19.058,United States,2009-06-01,172956,2,True
+New York,New York,21.103,United States,2009-07-01,172957,2,
+New York,New York,22.769000000000002,United States,2009-08-01,172958,2,
+New York,New York,17.043,United States,2009-09-01,172959,2,True
+New York,New York,10.364,United States,2009-10-01,172960,2,
+New York,New York,8.217,United States,2009-11-01,172961,2,
+New York,New York,-0.6239999999999999,United States,2009-12-01,172962,2,True
+New York,New York,-2.359,United States,2010-01-01,172963,2,
+New York,New York,-1.456,United States,2010-02-01,172964,2,
+New York,New York,6.715,United States,2010-03-01,172965,2,True
+New York,New York,12.075999999999999,United States,2010-04-01,172966,2,
+New York,New York,17.119,United States,2010-05-01,172967,2,
+New York,New York,21.943,United States,2010-06-01,172968,2,True
+New York,New York,24.789,United States,2010-07-01,172969,2,
+New York,New York,22.67,United States,2010-08-01,172970,2,
+New York,New York,19.172,United States,2010-09-01,172971,2,True
+New York,New York,11.911,United States,2010-10-01,172972,2,
+New York,New York,5.876,United States,2010-11-01,172973,2,
+New York,New York,-2.165,United States,2010-12-01,172974,2,True
+New York,New York,-4.463,United States,2011-01-01,172975,2,
+New York,New York,-1.2440000000000002,United States,2011-02-01,172976,2,
+New York,New York,3.474,United States,2011-03-01,172977,2,True
+New York,New York,10.555,United States,2011-04-01,172978,2,
+New York,New York,16.917,United States,2011-05-01,172979,2,
+New York,New York,21.031999999999996,United States,2011-06-01,172980,2,True
+New York,New York,24.564,United States,2011-07-01,172981,2,
+New York,New York,22.13,United States,2011-08-01,172982,2,
+New York,New York,19.301,United States,2011-09-01,172983,2,True
+New York,New York,12.001,United States,2011-10-01,172984,2,
+New York,New York,8.013,United States,2011-11-01,172985,2,
+New York,New York,2.987,United States,2011-12-01,172986,2,True
+New York,New York,-0.04100000000000037,United States,2012-01-01,172987,2,
+New York,New York,2.185,United States,2012-02-01,172988,2,
+New York,New York,8.734,United States,2012-03-01,172989,2,True
+New York,New York,10.324000000000002,United States,2012-04-01,172990,2,
+New York,New York,17.779,United States,2012-05-01,172991,2,
+New York,New York,20.165,United States,2012-06-01,172992,2,True
+New York,New York,24.479,United States,2012-07-01,172993,2,
+New York,New York,22.730999999999998,United States,2012-08-01,172994,2,
+New York,New York,18.177,United States,2012-09-01,172995,2,True
+New York,New York,12.436,United States,2012-10-01,172996,2,
+New York,New York,4.103,United States,2012-11-01,172997,2,
+New York,New York,2.5860000000000003,United States,2012-12-01,172998,2,True
+New York,New York,-0.968,United States,2013-01-01,172999,2,
+New York,New York,-1.3650000000000002,United States,2013-02-01,173000,2,
+New York,New York,2.5180000000000002,United States,2013-03-01,173001,2,True
+New York,New York,9.722999999999999,United States,2013-04-01,173002,2,
+New York,New York,15.544,United States,2013-05-01,173003,2,
+New York,New York,20.892,United States,2013-06-01,173004,2,True
+New York,New York,24.721999999999998,United States,2013-07-01,173005,2,
+New York,New York,21.000999999999998,United States,2013-08-01,173006,2,
+New York,New York,17.407999999999998,United States,2013-09-01,173007,2,True
